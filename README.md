@@ -10,7 +10,7 @@ Lunch the Folder in An Code Editor
 
 Go The Terminal
 
-Run The Command ##npm install
+Run The Command ##npm start
 
 Then Go To The Browser on The URL: http://localhost:3333/
 
